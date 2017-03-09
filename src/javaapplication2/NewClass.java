@@ -19,5 +19,5 @@ public class NewClass {
     {
     Size=Size+1;
     return Size;
-    }
+    }        
 }
